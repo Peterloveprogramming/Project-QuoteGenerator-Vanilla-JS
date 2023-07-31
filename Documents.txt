@@ -1,3 +1,0 @@
-Hero Background Pattern - https://heropatterns.com/
-
-QuoteAPI - https://jacintodesign.github.io/quotes-api/data/quotes.json
