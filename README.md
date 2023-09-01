@@ -1,5 +1,7 @@
 <h1 align="center" id="title">Quote Generator</h1>
 
+![QuoteGenerator](https://github.com/Peterloveprogramming/Project-QuoteGenerator-Vanilla-JS/assets/131538732/2581ff87-93a8-4b7b-8c5f-654308b86984)
+
 <p id="description">QuoteGenerator is a simple JavaScript project created using only HTML, CSS, and JavaScript, coupled with the Twitter API. Users can create quotes using this application and also have option to tweet these quotes directly from their Twitter account.</p>
 
 <h2>🚀 Demo</h2>
