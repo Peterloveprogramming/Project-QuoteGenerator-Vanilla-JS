@@ -8,7 +8,7 @@
 <h2>🧐 Features</h2>
 
 *   Tweet the quote directly from your own Twitter account
-![robosearch](https://github.com/Peterloveprogramming/RoboFriends/assets/131538732/725a2887-69c2-49f3-b980-9d6d0df382e4)
+[QuoteGenerator.pdf](https://github.com/Peterloveprogramming/Project-QuoteGenerator-Vanilla-JS/files/12501447/QuoteGenerator.pdf)
 
 
   <h2>🍰 Contribution Guidelines:</h2>
