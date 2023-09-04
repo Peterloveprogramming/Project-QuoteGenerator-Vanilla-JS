@@ -3,7 +3,7 @@
 
 <p id="description">QuoteGenerator is a simple JavaScript project created using only HTML, CSS, and JavaScript, coupled with the Twitter API. Users can create quotes using this application and also have option to tweet these quotes directly from their Twitter account.</p>
 
-![QuoteGenerator](https://github.com/Peterloveprogramming/Project-QuoteGenerator-Vanilla-JS/assets/131538732/2581ff87-93a8-4b7b-8c5f-654308b86984)
+[![QuoteGenerator](https://github.com/Peterloveprogramming/Project-QuoteGenerator-Vanilla-JS/assets/131538732/2581ff87-93a8-4b7b-8c5f-654308b86984)](https://peterloveprogramming.github.io/Project-QuoteGenerator-Vanilla-JS/)
 
 <h2>🚀 Demo</h2>
 [https://peterloveprogramming.github.io/RoboFriends/](https://peterloveprogramming.github.io/Project-QuoteGenerator-Vanilla-JS/)
